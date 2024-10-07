@@ -1,12 +1,13 @@
 package ru.yandex.practicum.filmorate.model;
 
-import lombok.Getter;
-import lombok.Setter;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
 
 /**
  *Film.
  */
-@Getter
-@Setter
+@AllArgsConstructor
+@Data
 public class Film {
 }
