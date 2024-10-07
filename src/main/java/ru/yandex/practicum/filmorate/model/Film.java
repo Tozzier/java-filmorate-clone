@@ -5,7 +5,6 @@ import lombok.Data;
 
 import java.time.LocalDate;
 
-
 @AllArgsConstructor
 @Data
 public class Film {
