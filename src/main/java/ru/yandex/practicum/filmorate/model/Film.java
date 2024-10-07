@@ -5,7 +5,6 @@ import lombok.Data;
 
 import java.time.LocalDate;
 
-
 @AllArgsConstructor
 @Data
 public class Film {
@@ -15,5 +14,3 @@ public class Film {
     private LocalDate releaseDate;
     private long duration;
 }
-
-
