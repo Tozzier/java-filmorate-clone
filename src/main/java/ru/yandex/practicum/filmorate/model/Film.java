@@ -14,5 +14,3 @@ public class Film {
     private LocalDate releaseDate;
     private long duration;
 }
-
-
